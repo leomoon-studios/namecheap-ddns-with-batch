@@ -1,5 +1,5 @@
 # Introduction
-Dynamic DNS for NameCheap using Batch
+Dynamic DNS script for NameCheap using Batch.
 
 ## Donations
 Future development of this project depends on community donations. All proceeds will go towards the development. You can donate using "[THIS LINK](https://www.paypal.me/leomoon)" and make sure to include which project you want to support.
