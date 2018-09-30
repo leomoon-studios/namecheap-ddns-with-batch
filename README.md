@@ -28,8 +28,7 @@ Future development of this project depends on community donations. All proceeds 
         *   Type "@" if you want to use the domain as dynamic dns
     *   Value field
         *   Type 1.1.1.1
-5.  Open ddns.bat
-6.  Change the ddnsUrl variable with your newly purchased domain in VARIABLES TO CHANGE section
+5.  Change the ddnsUrl variable with your newly purchased domain in VARIABLES TO CHANGE section
 6.  Change the host variable with the subdomain you chose (or "@") in VARIABLES TO CHANGE section
 7.  Copy the dynamic dns password and change the ddnsPass variable in VARIABLES TO CHANGE section
 8.  Save and run it
